@@ -24,6 +24,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0739-daily-temperatures](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0739-daily-temperatures/) | Medium |
@@ -45,9 +46,14 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0739-daily-temperatures](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0739-daily-temperatures/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 <!---LeetCode Topics End-->
