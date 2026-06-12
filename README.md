@@ -4,6 +4,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -77,4 +78,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0203-remove-linked-list-elements](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 <!---LeetCode Topics End-->
