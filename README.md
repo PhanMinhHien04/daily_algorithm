@@ -34,6 +34,7 @@
 | [0739-daily-temperatures](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0739-daily-temperatures/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1544-make-the-string-great](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1544-make-the-string-great/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -60,10 +61,12 @@
 | [0622-design-circular-queue](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0622-design-circular-queue/) | Medium |
 | [0739-daily-temperatures](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0739-daily-temperatures/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/0739-daily-temperatures/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/PhanMinhHien04/daily_algorithm/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
